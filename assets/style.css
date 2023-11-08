@@ -1,17 +1,17 @@
 
-/*this adjusts the padding and margin around all Boxes*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/*This assigns a color to the bacground of the entire page body*/
+
 body {
     background-color: #d9dcd6;
 }
 
-/*This assigns a size and style to the font of the page. it also assigns a color background to the header*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,18 +19,18 @@ body {
     color: #ffffff;
 }
 
-/* this adjusts the position and the style of the heading text "HORISEON"*/
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* This assigns color to the SEO class header text*/
+
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-/* this assigns attributes to the header div*/
+
 .header div {
     padding-top: 15px;
     padding-right: 2cap;
@@ -40,24 +40,24 @@ body {
     font-size: 20px;
 }
 
-/* This dictates the style of the ul factor for the header div */
+
 .header div ul {
     list-style-type: none;
 }
 
-/* This assigns a style to the list in the header div ul*/
+
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/*This assigns a color to the heading text*/
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/*This assigsn a size to the paragraph text*/
+
 p {
     font-size: 16px;
 }
@@ -65,7 +65,7 @@ p {
 
 
 
-/*this assigns properties to the images within the class*/
+
 
 .hero {
     height: 800px;
@@ -76,13 +76,13 @@ p {
     background-position: center;
 }
 
-/*This adjustst the positoin of the? */
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*This adjustst the positoin of the? */
+
 .float-right {
     float: right;
     margin-left: 25px;
